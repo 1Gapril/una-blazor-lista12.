@@ -1,7 +1,7 @@
 # 🌍 EcoMonitor - Blazor Lista 12
 
 ## 👤 Identificação
-- **Nome:** Gabriel Ferreira de Souza
+- **Nome:** Gabriel Ferreira de Souza, Lucas Henrique Miranda, Fábio Henrique Zanini Ferreira, Cauã Mendes
 - **Curso:** [ADS] Analise e Desenvolvimento de Sistemas
 
 ---
